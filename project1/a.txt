@@ -1,0 +1,9 @@
+a.txt
+main.c
+main.o
+Makefile
+shell
+smallsh.c
+smallsh.h
+smallsh.o
+test.c
